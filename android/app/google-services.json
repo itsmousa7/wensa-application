@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404636731253",
+    "project_id": "pets-f11af",
+    "storage_bucket": "pets-f11af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404636731253:android:6fefebe60298ddcf38f53c",
+        "android_client_info": {
+          "package_name": "com.example.wensa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-FzN_9yJ8OGEXy3XxqInuxdMoIhZXZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
