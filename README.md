@@ -1,16 +1,23 @@
-# wensa
+# ونسة - Wansa  
 
-A new Flutter project.
+Explore. Enjoy. Repeat.  
 
-## Getting Started
+Wansa is a fun and engaging local tourism and restaurant discovery app designed to help users explore the best places around them. Whether you're looking for new restaurants, entertainment spots, or hidden gems in your city, Wansa makes it easy to find and enjoy them.  
 
-This project is a starting point for a Flutter application.
+## 📱 Features  
+- 🌍 Discover Places: Find the best restaurants, cafés, and entertainment spots.  
+- ⭐ Reviews & Ratings: Check reviews and ratings from other users.  
+- 📍 Map Integration: Get directions to your chosen locations.  
+- 🎨 Vibrant UI: A joyful and energetic design to enhance your experience.  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used  
+- Flutter for cross-platform development.  
+- Dart as the primary programming language.  
+- Firebase (optional) for backend services (authentication, database, etc.).  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started  
+### Prerequisites  
+Ensure you have the following installed:  
+- Flutter SDK ([Installation Guide](https://flutter.dev/docs/get-started/install))  
+- Dart SDK  
+- Android Studio or Visual Studio Code (with Flutter extension)  
